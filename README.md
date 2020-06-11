@@ -1,2 +1,2 @@
-# Web-Development
-Meant for web application development irrespective of tech stack
+# Covid - 19 Tracker
+Application to track corona virus reported cases around globe.
